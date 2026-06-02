@@ -1,6 +1,6 @@
 # ECBD_9A_IDGS_Practicas_230758
 
-![Texto alternativo](Asset/lol.png)
+![Texto alternativo](lol.png)
 
 # Repositorio de Practicas para la Asignatura de Analisis De Datos
 ---
