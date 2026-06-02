@@ -2,7 +2,7 @@
 
 ![Texto alternativo](lol.png)
 
-# Repositorio de Practicas para la Asignatura de Analisis De Datos
+# Repositorio de Practicas para la Asignatura de Analisis Exploratorio De Datos cpm Jupiter y Python
 ---
 Este repositorio contendra los resultados de las practicas de la materia para tener una mejor organizacion y agilizar la revicion de las mismas
 
