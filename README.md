@@ -21,5 +21,7 @@ Aquí tienes la tabla actualizada con las fechas agregadas:
 | No. | Descripción                                                                                                                                     | Potenciador | Estatus   | Fecha      |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --------- | ---------- |
 | 1.  | [Introducion al uso de Pyton en el Analisis de datos](https://github.com/F-Anks/ECBD_9A_IDGS_Practicas_230758/blob/Practica-03/Practica%2003.ipynb) | -           | Pendiente de calificar | 28/05/2026 |
+| 2.  | [Generación de Dataset de Pacientes con indicadores para el calculo de riesgo de Infarto Cardiaco en Puebla]() | -           | Pendiente de calificar | 28/05/2026 |
+| 3.  | [Calculo de porcentaje de riesgo de pacientes que pueden presentar un infarto cardiaco en Xicotepec]() | -           | Pendiente de calificar | /05/2026 |
 
 Creando un punto de restauracion seguro antes de la funcion de la rama Practica02
