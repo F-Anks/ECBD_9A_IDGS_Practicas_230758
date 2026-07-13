@@ -12,9 +12,10 @@ Esta práctica consiste en la creación, validación y análisis exploratorio de
 
 ## Autor
 
-- **Nombre:** Estudiante 230758
-- **Materia:** Extracción y Clasificación de Base de Datos (ECBD)
-- **Grupo:** 9A IDGS
+- **Nombre:** Francisco Garcia Garcia
+- **Matrícula:** 230758
+- **Materia:** Extracción de Conocimiento en Bases de Datos (ECBD)
+
 
 ## Estructura del Proyecto
 
